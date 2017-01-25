@@ -1,0 +1,12 @@
+SMPTE 314M, Data Structure for DV-Based Audio, Data, and Compressed Video
+ * >$50 from SMTPE, but they left a PDF on their website which you can 
+download for free
+ * mostly identical to IEC 61834, but less detailed and way cheaper
+
+Robson, Gary D. The Closed Captioning Handbook. ISBN 0240805615.
+ * Cheaper than buying EIA-604.
+
+US Patent 6,009,233. Apparatus and method for recording and reproducing 
+a video signal with camera setting data.
+ * don't care about the actual "invention" here, but many of the figure 
+give nice details of the DV spec.

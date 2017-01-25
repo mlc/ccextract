@@ -1,0 +1,7 @@
+* Handle moving active roll-up captions around the screen
+
+* Figure out how to behave when entering mid-stream
+
+* Saner error-checking
+
+* Proper implementation of spaces before & after each caption
