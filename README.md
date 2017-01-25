@@ -3,6 +3,8 @@ ccextract
 
 Here is some old code for parsing and displaying [EIA-608][] ("line 21") closed captions.
 
+![screenshot](https://makeinstallnotwar.org/video/ccextract-screenshot)
+
 Compiling
 ---------
 
